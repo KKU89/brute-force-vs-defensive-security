@@ -4,9 +4,11 @@ SECTION:-SC
 
 Krishnakant Upmanyu-  30(2415000851)-OFFENSIVE
 Anushka Chauhan-      11(2415000306)-OFFENSIVE
-Mohit Saraswat-       36(2415000987)-DEFFENSIVE
+Mohit Saraswat-       36(2415000987)-DEFENSIVE
 Ghan Shyam-           21(2415000604)-DEFENSIVE
-Siva Choudhary-       59(2415001576)-DEFFENSIVE
+Siva Choudhary-       59(2415001576)-DEFENSIVE
+Gaurav Sandilya-      19(2415000598)-DEFENSIVE
+
 
 
 
