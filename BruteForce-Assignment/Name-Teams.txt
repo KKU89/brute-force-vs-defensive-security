@@ -3,11 +3,13 @@ TEAM MEMBERS NAME,ROLL NO. & ROLE:-
 SECTION:-SC
 
 Krishnakant Upmanyu-  30(2415000851)-OFFENSIVE
-Anushka Chauhan-      11(2415000306)-OFFENSIVE
 Mohit Saraswat-       36(2415000987)-DEFENSIVE
-Ghan Shyam-           21(2415000604)-DEFENSIVE
 Siva Choudhary-       59(2415001576)-DEFENSIVE
+Ghan Shyam-           21(2415000604)-DEFENSIVE
 Gaurav Sandilya-      19(2415000598)-DEFENSIVE
+Anushka Chauhan-      11(2415000306)-DFFENSIVE
+Falguni Verma-        18(2415000578)-DFFENSIVE
+Priya Sharma-         47(2415001195)-DFFENSIVE
 
 
 
